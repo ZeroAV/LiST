@@ -1,4 +1,4 @@
-# HelloSwift
+# LiST
 
 <p align="center">
 <img src="Screenshots/SS.png" title="SS">
