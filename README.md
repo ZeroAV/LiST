@@ -1,7 +1,7 @@
 # HelloSwift
 
 <p align="center">
-<img src="Screenshots/SS.png" width="40%" title="SS">
+<img src="Screenshots/SS.png" title="SS">
 </p>
 
 ## Description
